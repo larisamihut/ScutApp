@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/doctor_home"
+        android:title="@string/menu_home"/>
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/doctor_map"
+        android:title="@string/menu_map"/>
+
+    <item
+        android:id="@+id/nav_signout"
+        android:icon="@drawable/doctor_logout"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:title="@string/menu_signout"/>
+</menu>

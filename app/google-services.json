@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233105786658",
+    "firebase_url": "https://scutapp-e9f96.firebaseio.com",
+    "project_id": "scutapp-e9f96",
+    "storage_bucket": "scutapp-e9f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233105786658:android:f5d41dd600686b2493477b",
+        "android_client_info": {
+          "package_name": "com.example.scutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233105786658-ju5ijdvrc83jcjagns83a2in6q9v9ivo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scutapp",
+            "certificate_hash": "dc933b9b6e83f35200d68adb3e41d830c2ae2c52"
+          }
+        },
+        {
+          "client_id": "233105786658-j0qh0cdadaojnpbi7eigj1r7l3hf1ps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkpmGlumFPwxMeIKnnsQLbWK8UyL5xxuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233105786658-j0qh0cdadaojnpbi7eigj1r7l3hf1ps7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
